@@ -4,3 +4,4 @@ artifacts:
     - location
     - location
   discard-paths: yes
+  
